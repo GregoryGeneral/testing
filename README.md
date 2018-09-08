@@ -1,6 +1,6 @@
 # testing
 
-Author Don Welch 
+Author Gregory General
 
 Contents  A dummy VS CS project
 
